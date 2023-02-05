@@ -1,0 +1,5 @@
+plugin: ldap_inventory
+domain: 'ldap://ukawipwmsdc01.CORP.COM:389'
+username: asadaghdar@CORP.COM
+password: "Connecticut1!"
+search_ou: "OU=GPO-Testing,DC=CORP,DC=COM"
